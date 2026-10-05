@@ -66,9 +66,9 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '答案',
   description: '四十三章回忆录',
-  base: '/shu/',
+  base: '/daan-site/',
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/shu/favicon.svg' }]],
+  head: [['link', { rel: 'icon', href: '/daan-site/favicon.svg' }]],
   themeConfig: {
     nav: [{ text: '目录', link: '/' }],
     sidebar,
